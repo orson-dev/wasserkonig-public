@@ -86,10 +86,10 @@
   font-weight: bold;
 }
 .first .image {
-  background-image: url("../assets/images/EP-2-web.png");
+  background-image: url("../assets/images/EP-2-web.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top center;
+  background-position: center;
 }
 
 .partener {
